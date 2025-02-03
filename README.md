@@ -1,16 +1,16 @@
 # Credit Score Analysis
 
 ## Index
-1. Introduction
-2. Problem Context
-3. Project Aim
-4. Variables Used
-5. Project Description
-6. Repository Structure
-7. Objectives
-8. Key Performance Indicators (KPIs)
-9. Expected Results
-10. Support Material
+1. [Introduction](#introduction)
+2. [Problem Context](#problem-context)
+3. [Project Aim](#project-aim)
+4. [Variables Used](#variables-used)
+5. [Project Description](#project-description)
+6. [Repository Structure](#repository-structure)
+7. [Objectives](#objectives)
+8. [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)
+9. [Expected Results](#expected-results)
+10. [Support Material](#support-material)
 
 ## Introduction
 Credit scoring is a crucial tool in the financial sector, helping institutions assess the creditworthiness of individuals. This project focuses on developing a robust credit scoring system using Machine Learning models. By leveraging historical financial data, the project aims to predict whether a loan applicant is likely to default or not. The implementation includes advanced algorithms optimized for accuracy and scalability, ensuring financial institutions can make informed lending decisions.
