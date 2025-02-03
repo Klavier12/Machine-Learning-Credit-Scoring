@@ -57,11 +57,11 @@ This project involves training and evaluating two Machine Learning models: **Ran
 ```
 
 ## Objectives
-1. Develop an effective credit scoring model using Machine Learning.
-2. Compare the performance of Random Forest and CatBoost models.
-3. Optimize models using GridSearch and Cross-Validation.
-4. Deploy the best-performing model using FastAPI and Docker.
-5. Provide an accessible and scalable solution for financial institutions.
+1. Developing an effective credit scoring model using Machine Learning.
+2. Comparing the performance of Random Forest and CatBoost models.
+3. Optimizing models using GridSearch and Cross-Validation.
+4. Deploying the best-performing model using FastAPI and Docker.
+5. Providing an accessible and scalable solution for financial institutions.
 
 ## Key Performance Indicators (KPIs)
 - **Accuracy**: Measure of correctly classified loan applicants.
