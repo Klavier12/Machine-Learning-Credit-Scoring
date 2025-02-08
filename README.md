@@ -24,7 +24,7 @@ The primary objective of this project is to develop a credit scoring model that 
 ## Variables Used
 The dataset includes the following key variables:
 - **Age**: Applicant's age.
-- **Income**: Monthly income level.
+- **Income**: Monthly income level
 - **Credit History**: Past credit performance and defaults.
 - **Loan Amount**: Amount requested by the applicant.
 - **Employment Status**: Type of employment and stability.
